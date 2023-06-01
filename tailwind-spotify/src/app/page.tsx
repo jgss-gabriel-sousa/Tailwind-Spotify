@@ -1,5 +1,5 @@
 import { Sidebar } from '@/components/Sidebar'
-import { Footer } from '@/components/footer'
+import { Footer } from '@/components/Footer'
 import { Laptop2, LayoutList, Maximize2, Mic2, Volume } from 'lucide-react'
 import { ChevronLeft, ChevronRight, Play, Shuffle, SkipBack, SkipForward, Repeat } from 'lucide-react'
 import Image from 'next/image'
